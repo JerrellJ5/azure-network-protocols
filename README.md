@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups in Azure, IP Address, and Wireshare</h1>
+<h1>Internet Protocols and Tool</h1>
 A walkthough about internet protocols, and Wireshare <br />
 
 
