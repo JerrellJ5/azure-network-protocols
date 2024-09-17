@@ -8,7 +8,7 @@ A walkthough about internet protocols, and Wireshare <br />
 
 <h2>Video Demonstration</h2>
 
-- ### [What is Domain Name System](https://www.youtube.com/watch?v=MwxMsaFFycg)
+- ### [Network Protocol](https://www.youtube.com/watch?v=BnWn18qUYyA)
 
 <h2>Network concepts and tools</h2>
 
