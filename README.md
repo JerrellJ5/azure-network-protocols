@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/kgPkWV1.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Internet Protocols and Tool</h1>
@@ -13,17 +13,17 @@ A walkthough about internet protocols, and Wireshare <br />
 <h2>Network concepts and tools</h2>
 
 - DNS
-- Ip Address
+- DHCP
 - Wireshark 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10
 
 <h2>What are these internet protocols and tools</h2>
 
 - What is DNS
-- What is IP Address
+- What is DHCP
 - What is WireShark
 
 <h2>Actions and Observations</h2>
@@ -47,17 +47,16 @@ DNS makes it easy for people to browse the web by converting easy-to-remember na
 <br />
 
 <p>
-<img src="https://i.imgur.com/Tbmwq07.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3oLYjE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-An IP address is like a home address, but for devices on the internet. Every device (like your phone, computer, or server) has a unique IP address so it can be found and communicate with other devices online.
+DHCP (Dynamic Host Configuration Protocol) is like a network's "automatic address giver." When you connect your phone, computer, or any device to the internet or Wi-Fi, it needs an IP address (like a home address) to communicate with other devices. Instead of manually setting an IP address for each device, **DHCP** does it for you automatically.
 
-Types of IP Addresses:
-1. IPv4: Looks like this: `192.168.1.1`. It uses numbers and is the most common type.
-2. IPv6: Looks like this: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`. It’s newer and longer because we’re running out of IPv4 addresses.
-
-How It Works:
-Just like mail needs a home address to know where to deliver a letter, the internet uses IP addresses to send and receive data (like emails, websites, or videos) between computers. Without an IP address, a device wouldn't be able to communicate or access the internet, because there would be no way to locate it.
+### How It Works:
+1. Join the Network: When you connect to a Wi-Fi network, your device asks for an IP address.
+2. DHCP Server Responds: The DHCP server assigns your device a temporary IP address.
+3. Device Gets an IP Address: Your device can now send and receive data, like browsing the web or checking email.
+In simple terms, DHCP makes sure every device on a network gets an IP address without you having to do anything manually.
 </p>
 <br />
 
