@@ -47,17 +47,30 @@ DNS makes it easy for people to browse the web by converting easy-to-remember na
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tbmwq07.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An IP address is like a home address, but for devices on the internet. Every device (like your phone, computer, or server) has a unique IP address so it can be found and communicate with other devices online.
+
+Types of IP Addresses:
+1. IPv4: Looks like this: `192.168.1.1`. It uses numbers and is the most common type.
+2. IPv6: Looks like this: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`. It’s newer and longer because we’re running out of IPv4 addresses.
+
+How It Works:
+Just like mail needs a home address to know where to deliver a letter, the internet uses IP addresses to send and receive data (like emails, websites, or videos) between computers. Without an IP address, a device wouldn't be able to communicate or access the internet, because there would be no way to locate it.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kLpCgg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Wireshark is a tool that lets you see what's happening on a computer network, kind of like looking at the traffic on a busy highway. It captures and analyzes data being sent over the network, such as emails, web browsing, or video streaming, to help understand or troubleshoot problems.
+
+How It Works:
+1. Captures Data: Wireshark listens to the network and collects the "packets" of data being sent between devices.
+2. Analyzes Data: It lets you see where the data is coming from, where it's going, and what kind of information is being sent.
+3. Troubleshooting: Network engineers use it to find issues, like why a website is slow or whether something suspicious, like hacking, is happening.
+Think of Wireshark like a detective tool that helps you look at the details of what's happening on the internet in real-time.
 </p>
 <br />
