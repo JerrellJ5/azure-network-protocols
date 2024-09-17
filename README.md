@@ -3,18 +3,18 @@
 </p>
 
 <h1>Network Security Groups in Azure, IP Address, and Wireshare</h1>
-A walkthough about what Network Security Group, IP Address, adn Wireshare <br />
+A walkthough about what Domain Name System, IP Address, adn Wireshare <br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [Network Security Group in Azure](https://www.youtube.com/watch?v=3W9xDrR6Myo)
+- ### [What is Domain Name System](https://www.youtube.com/watch?v=MwxMsaFFycg)
 
-<h2>Environments and Technologies Used</h2>
+<h2>TNetwork concepts and tools</h2>
 
-- Microsoft Azure
+- DNS
 - Ip Address
-- Wireshark (Protocol Analyzer)
+- Wireshark 
 
 <h2>Operating Systems Used </h2>
 
@@ -22,10 +22,9 @@ A walkthough about what Network Security Group, IP Address, adn Wireshare <br />
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- What is DNS
+- What is IP Address
+- What is WireShark
 
 <h2>Actions and Observations</h2>
 
