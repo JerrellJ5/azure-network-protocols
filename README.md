@@ -8,7 +8,7 @@ A walkthough about what Network Security Group, IP Address, adn Wireshare <br />
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Network Security Group in Azure](https://www.youtube.com/watch?v=3W9xDrR6Myo)
 
 <h2>Environments and Technologies Used</h2>
 
